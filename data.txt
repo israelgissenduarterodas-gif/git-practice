@@ -1,0 +1,3 @@
+name: scott weiland
+age: eternity
+favorite color: black
